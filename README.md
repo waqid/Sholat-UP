@@ -1,2 +1,2 @@
 # Sholat-UP
-Jadwal sholat untuk daera-daerah di Indonesia
+Jadwal sholat untuk berbagai daerah di Indonesia
